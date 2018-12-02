@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="exemplo3.paginas.direcionamento"
+             Title="Calculos"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="M.Escola" Icon="graduation_cap.png" x:Name="btn_media_escola"/>
+        <ToolbarItem Text="Baskara" Icon="quadrado.png" x:Name="btn_baskara"/>
+        <ToolbarItem Text="Ohm" Icon="Omega.png" x:Name="btn_ohm"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightBlue">
+            <Label Text="Bem vindo a nossa calculadora inteligente. Use o menu superior para suas escolhas."
+                   VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

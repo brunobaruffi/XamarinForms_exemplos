@@ -1,0 +1,12 @@
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\bin\Debug\netstandard2.0\exemplo5.deps.json
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\bin\Debug\netstandard2.0\exemplo5.dll
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\bin\Debug\netstandard2.0\exemplo5.pdb
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\exemplo5.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\exemplo5.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\exemplo5.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\exemplo5.AssemblyInfo.cs
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\exemplo5.dll
+C:\Users\bruno\Desktop\xamarin\projetos\exemplo5\exemplo5\exemplo5\exemplo5\obj\Debug\netstandard2.0\exemplo5.pdb

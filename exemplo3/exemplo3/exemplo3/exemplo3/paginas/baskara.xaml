@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="exemplo3.paginas.baskara"
+             Title="Baskara">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="LightBlue">
+                <Label Text="Entre com o 'a':"/>
+                <Entry x:Name="txt_a"/>
+                <Label Text="Entre com o 'b':"/>
+                <Entry x:Name="txt_b"/>
+                <Label Text="Entre com o 'c':"/>
+                <Entry x:Name="txt_c"/>
+                <Button Text="Calcular" x:Name="btn_calcular"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

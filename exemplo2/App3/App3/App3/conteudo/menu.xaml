@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:paginas ="clr-namespace:App3.conteudo"
+             x:Class="App3.conteudo.menu">
+    <MasterDetailPage.Master>
+        <ContentPage Title="MENU">
+            <StackLayout>
+                <Button Text="Inicio" x:Name="btn_inicio"/>
+                <Button Text="Baskara" x:Name="btn_baskara"/>
+                <Button Text="Ohm" x:Name="btn_ohm"/>
+                <Button Text="Vol.Cone" x:Name="btn_vcone"/>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <paginas:inicio />
+    </MasterDetailPage.Detail>
+</MasterDetailPage>
